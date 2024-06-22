@@ -1,3 +1,3 @@
 # Stock Price Prediction
 
-## Created using Python, Pandas, NumPy and dataset from Quandl
+Using KNN Classifier and Regression to find when to buy / sell stocks and to predict the closing price of the stock.
